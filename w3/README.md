@@ -1,7 +1,7 @@
-# 3주차 git
+(# 3주차 git
          
 ## 이미지
-![kau](https://github.com/mcy0325/2023_OSS/blob/06e927c4676866d23b31dd067d54565fff1027eb/w3/kau.jpg)
+![kau](https://github.com/mcy0325/2023_OSS/blob/main/w3/kau.jpg)
    
 ## 링크
 [LMS](https://lms.kau.ac.kr/)
