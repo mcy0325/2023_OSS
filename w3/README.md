@@ -1,7 +1,7 @@
 # 3주차 git
          
 ## 이미지
-   
+
 ## 링크
 [LMS](https://lms.kau.ac.kr/)
    
@@ -9,14 +9,14 @@
 [ProGit](https://git-scm.com/book/ko/v2)
    
 ## 주요 git 명령어
-<git 기본 명령어>   
+###<git 기본 명령어>   
 sudo apt install git : git 설치   
 git status : 현재 상태 확인   
 git log : 전체 로그 확인   
 git init : git 저장소 생성하기   
 git clone 주소 : 저장소 복제 및 다운로드   
    
-<git branch 관련 명령어>   
+###<git branch 관련 명령어>   
 git branch 브랜치명 : 브랜치 생성   
 git checkout 브랜치명 : 해당 브랜치로 이동   
 git branch -d 브랜치명 : 브랜치를 생성하고 해당 브랜치로 바로 이동   
@@ -26,7 +26,7 @@ git commit -m "commit message" : 커밋
 git branch -d 브랜치명 : 브랜치 삭제   
 git merge 다른 브랜치명 : 현재 브랜치에 다른 브랜치 수정사항 병합   
    
-<git config 설정 관련 명령어>   
+###<git config 설정 관련 명령어>   
 git config --global user.name "이름" : git config 설정하는 방법   
 git config --global user.name "이메일주소" : git config 설정하는 방법   
 git config --list : 전체 config 리스트 확인   
