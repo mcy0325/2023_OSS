@@ -1,9 +1,9 @@
 # 2023_OSS
 [3주차 강의](./w3)
-
+   
 ## 이미지
-![kau_image](C:\Users\문채영\Desktop\kau image.png)
 
+   
 ## 링크
 [LMS](https://lms.kau.ac.kr/)
 ## ProGit 링크
@@ -35,5 +35,5 @@
  22 echo " "
  23 echo "last_line"
  24 echo "$last_line"
-
+   
 ```
