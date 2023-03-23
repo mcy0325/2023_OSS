@@ -1,7 +1,7 @@
 # 3주차 git
          
 ## 이미지
-
+![kau](./image/kau.jpg)
    
 ## 링크
 [LMS](https://lms.kau.ac.kr/)
