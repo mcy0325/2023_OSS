@@ -9,7 +9,7 @@
 ## ProGit 링크
 [ProGit](https://git-scm.com/book/ko/v2)
 ## W2 과제 코드
-'''
+```
 #! /usr/bin/env bash
   1 file_path=$(find ~ -name "w2_homework.txt" 2> /dev/null)
   2 line_number=$(wc -l < $file_path)
@@ -36,4 +36,4 @@
  23 echo "last_line"
  24 echo "$last_line"
 
-'''
+```
